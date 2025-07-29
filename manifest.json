@@ -1,12 +1,47 @@
 {
-  "name": "Futbol",
-  "identifier": "com.periodiconaranja.Futbol",
-  "version": "1.0",
+  "name": "Periódico Naranja",
+  "subtitle": "Apps fuera del App Store",
+  "description": "Apps creadas y publicadas por el Periódico Naranja.",
   "iconURL": "https://mig335uel.github.io/Futbol/icon.png",
-  "ipaURL": "https://mig335uel.github.io/Futbol/Futbol.ipa",
-  "localizedDescription": "Una app de fútbol fuera del App Store.",
-  "developerName": "Miguelito Gomez",
-  "screenshotURLs": [
-    "https://mig335uel.github.io/Futbol/screenshot1.png"
+  "headerURL": "https://mig335uel.github.io/Futbol/header.png",
+  "website": "https://mig335uel.github.io/Futbol/",
+  "tintColor": "#ff6600",
+  "featuredApps": ["com.periodiconaranja.Futbol"],
+  "apps": [
+    {
+      "name": "Futbol",
+      "bundleIdentifier": "com.periodiconaranja.Futbol",
+      "developerName": "Miguelito Gomez",
+      "subtitle": "Fútbol sin restricciones.",
+      "localizedDescription": "Una app de fútbol fuera del App Store.",
+      "iconURL": "https://mig335uel.github.io/Futbol/icon.png",
+      "tintColor": "#ff6600",
+      "screenshots": [
+        "https://mig335uel.github.io/Futbol/screenshot1.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2025-07-29T00:00:00-08:00",
+          "size": 15000000,
+          "downloadURL": "https://mig335uel.github.io/Futbol/Futbol.ipa",
+          "localizedDescription": "Primera versión de la app de fútbol.",
+          "minOSVersion": "14.0"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "¡Nueva app disponible!",
+      "identifier": "futbol_release",
+      "caption": "Ya puedes instalar Futbol en tu dispositivo.",
+      "date": "2025-07-29",
+      "tintColor": "#ff6600",
+      "imageURL": "https://mig335uel.github.io/Futbol/screenshot1.png",
+      "notify": true,
+      "appID": "com.periodiconaranja.Futbol"
+    }
   ]
 }
