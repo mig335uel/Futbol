@@ -1,0 +1,12 @@
+{
+  "name": "Futbol",
+  "identifier": "com.periodiconaranja.Futbol",
+  "version": "1.0",
+  "iconURL": "https://mig335uel.github.io/Futbol/icon.png",
+  "ipaURL": "https://mig335uel.github.io/Futbol/Futbol.ipa",
+  "localizedDescription": "Una app fuera del App Store gracias a AltStore PAL.",
+  "developerName": "Miguelito Gomez",
+  "screenshotURLs": [
+    "https://mig335uel.github.io/Futbol/screenshot1.png"
+  ]
+}
