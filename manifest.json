@@ -25,9 +25,9 @@
           "buildVersion": "1",
           "date": "2025-07-29T00:00:00-08:00",
           "size": 2800,
-          "downloadURL": "https://mig335uel.github.io/Futbol/Futbol.ipa",
+          "downloadURL": "https://github.com/mig335uel/Futbol/raw/refs/heads/main/Futbol.ipa",
           "localizedDescription": "Primera versión de la app de fútbol.",
-          "minOSVersion": "14.0"
+          "minOSVersion": "15.5"
         }
       ]
     }
