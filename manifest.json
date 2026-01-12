@@ -34,7 +34,7 @@
       "name": "Periódico Naranja",
       "bundleIdentifier": "com.periodiconaranja.periodiconaranja",
       "developerName": "Periodico Naranja",
-      "subtitle": "Fútbol sin restricciones.",
+      "subtitle": "App oficial del Periódico Naranja.",
       "localizedDescription": "App de Periódico Naranja",
       "iconURL": "https://mig335uel.github.io/Futbol/icon.png",
       "tintColor": "#ff6600",
@@ -65,6 +65,15 @@
       "imageURL": "https://mig335uel.github.io/Futbol/screenshot1.png",
       "notify": true,
       "appID": "com.periodiconaranja.Futbol"
+    },{
+      "title": "App oficial del Periódico Naranja",
+      "identifier": "periodiconaranja_release",
+      "caption": "Ya puedes instalar Periódico Naranja en tu dispositivo.",
+      "date": "2025-07-29",
+      "tintColor": "#ff6600",
+      "imageURL": "https://mig335uel.github.io/Futbol/screenshot1.png",
+      "notify": true,
+      "appID": "com.periodiconaranja.periodicoNaranja"
     }
   ]
 }
