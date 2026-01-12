@@ -48,7 +48,7 @@
           "date": "2025-07-29T00:00:00-08:00",
           "size": 28000,
           "downloadURL": "https://github.com/mig335uel/Futbol/raw/refs/heads/main/PeriodicoNaranja.ipa",
-          "localizedDescription": "Primera versión de la app de fútbol.",
+          "localizedDescription": "Versión de prueba de la app oficial del Periódico Naranja.",
           "minOSVersion": "15.5"
         }
       ]
