@@ -30,7 +30,30 @@
           "minOSVersion": "15.5"
         }
       ]
+    },{
+      "name": "Periódico Naranja",
+      "bundleIdentifier": "com.periodiconaranja.periodiconaranja",
+      "developerName": "Periodico Naranja",
+      "subtitle": "Fútbol sin restricciones.",
+      "localizedDescription": "App de Periódico Naranja",
+      "iconURL": "https://mig335uel.github.io/Futbol/icon.png",
+      "tintColor": "#ff6600",
+      "screenshots": [
+        "https://mig335uel.github.io/Futbol/screenshot1.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2025-07-29T00:00:00-08:00",
+          "size": 28000,
+          "downloadURL": "https://github.com/mig335uel/Futbol/raw/refs/heads/main/PeriodicoNaranja.ipa",
+          "localizedDescription": "Primera versión de la app de fútbol.",
+          "minOSVersion": "15.5"
+        }
+      ]
     }
+
   ],
   "news": [
     {
